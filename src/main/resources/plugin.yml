@@ -1,0 +1,6 @@
+author: wylan
+name: EmpireCurrency
+version: 0.1
+main: com.rankup.empire.currencies.CurrenciesPlugin
+depend:
+  - Vault
